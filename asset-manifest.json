@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/generatepass/static/css/main.e2a8f709.css",
-    "main.js": "/generatepass/static/js/main.bf756b0b.js",
+    "main.js": "/generatepass/static/js/main.e6976662.js",
     "index.html": "/generatepass/index.html",
     "main.e2a8f709.css.map": "/generatepass/static/css/main.e2a8f709.css.map",
-    "main.bf756b0b.js.map": "/generatepass/static/js/main.bf756b0b.js.map"
+    "main.e6976662.js.map": "/generatepass/static/js/main.e6976662.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a8f709.css",
-    "static/js/main.bf756b0b.js"
+    "static/js/main.e6976662.js"
   ]
 }
