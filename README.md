@@ -1,6 +1,24 @@
+# generatepass
+Randomly Generates the pass on user inputs of using Uppercase , lowercase , Symbols , and Numbers , also tells the strength of password upon generation 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Change Project Directory 
+
+In the project directory, you can run:
+
+### `cd generatepass`
+
+
+## Install All the Depencncies  
+
+In the project directory, you can run:
+
+### `npm install`
 
 ## Available Scripts
 
